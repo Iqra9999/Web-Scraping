@@ -12,3 +12,23 @@ Uses BeautifulSoup to parse HTML and extract key information, including article 
 Includes mechanisms to handle failed requests and ensure continuous scraping.
 ### Data Storage: 
 Converts the collected data into a pandas DataFrame and saves it as a CSV file for easy access and analysis.
+## Installation
+Clone the repository:
+git clone https://github.com/yourusername/yourrepository.git
+
+Navigate to the project directory:
+cd yourrepository
+
+Install the required libraries:
+pip install -r requirements.txt
+## Usage
+Configure the base_url, start_date, end_date, and max_pages parameters in the script.
+
+Run the script:
+python scrape_news.py
+
+The script will scrape the news articles and save the data to a CSV file named News.csv.
+## Contributions
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
