@@ -14,10 +14,10 @@ Includes mechanisms to handle failed requests and ensure continuous scraping.
 Converts the collected data into a pandas DataFrame and saves it as a CSV file for easy access and analysis.
 ## Installation
 Clone the repository:
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/Iqra9999/Web-Scraping
 
 Navigate to the project directory:
-cd yourrepository
+cd Web-Scraping
 
 Install the required libraries:
 pip install -r requirements.txt
