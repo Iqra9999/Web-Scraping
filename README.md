@@ -28,6 +28,8 @@ Run the script:
 python scrape_news.py
 
 The script will scrape the news articles and save the data to a CSV file named News.csv.
+### Note: 
+Ensure that the article URLs are unique and change with each article. This code will only work if the URLs follow a predictable pattern.
 ## Contributions
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 ## License
